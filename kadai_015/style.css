@@ -29,7 +29,8 @@ h1{
     font-size: 2rem;
     letter-spacing: 1.2em;
     text-shadow: 2px 2px 4px gray;
-    text-decoration: underline solid 3px rgb(115, 115, 114);
+    border-bottom: 3px solid rgb(115, 115, 114);
+    
 }
 
 
