@@ -1,0 +1,39 @@
+/* 中央寄せ */
+body{
+    text-align: center ;
+}
+
+/* bodyのフォント種類を、「"Arial", "Meiryo", sans-serif」 にする*/
+body{
+    font-family: Arial,Meiryo,sans-serif;
+}
+
+/* html要素のフォントサイズを20pxにする*/
+html{
+    font-size: 20px;
+}
+
+/* 文字の色をスカイブルーにする*/
+.blue{
+    color: skyblue;
+}
+
+/* 文字の色をピンクする*/
+.pink{
+    color: rgb(255, 192, 203);
+}
+
+/* h1の装飾 */
+h1{
+    font-family:"Josefin Sans",sans-serif;
+    font-size: 2rem;
+    letter-spacing: 1.2em;
+    text-shadow: 2px 2px 4px gray;
+    text-decoration: underline solid 3px rgb(115, 115, 114);
+}
+
+
+/* 文字を太字にする */
+#basic p{
+    font-weight:bold;
+}
